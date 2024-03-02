@@ -33,44 +33,44 @@
                         <a href="<%=request.getContextPath()%>/views/index.jsp">Trang chủ</a>
                     </li>
                     <li class="navigation-item">
-                        <a href="<%=request.getContextPath()%>/category/products.jsp">Sản phẩm</a>
+                        <a href="<%=request.getContextPath()%>/views/web/category/products.jsp">Sản phẩm</a>
                     </li>
                     <li class="navigation-item">
-                        <a href="<%=request.getContextPath()%>/category/jewelrys.jsp">Trang sức</a>
+                        <a href="<%=request.getContextPath()%>/views/web/category/jewelrys.jsp">Trang sức</a>
                     </li>
                     <li class="navigation-item">
-                        <a href="<%=request.getContextPath()%>/category/gemstone.jsp">Đá quý</a>
+                        <a href="<%=request.getContextPath()%>/views/web/category/gemstone.jsp">Đá quý</a>
                         <i class="fa-solid fa-caret-down"></i>
                         <ul class="dropdown-gem">
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/spinel.jsp">Spinel</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/spinel.jsp">Spinel</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/diamond.jsp">Kim cương</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/diamond.jsp">Kim cương</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/ruby.jsp">Ruby</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/ruby.jsp">Ruby</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/peridot.jsp">Hổ phách</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/peridot.jsp">Hổ phách</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/topaz.jsp">Topaz</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/topaz.jsp">Topaz</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/aquamarine.jsp">Aquamarine</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/aquamarine.jsp">Aquamarine</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/tourmaline.jsp">Tourmaline</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/tourmaline.jsp">Tourmaline</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/jade.jsp">Jade</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/jade.jsp">Jade</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/emerald.jsp">Emerald</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/emerald.jsp">Emerald</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/category/garnet.jsp">Garnet</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/garnet.jsp">Garnet</a>
                             </li>
                         </ul>
                     </li>
