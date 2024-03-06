@@ -61,7 +61,7 @@
                                 <a href="<%=request.getContextPath()%>/views/web/category/aquamarine.jsp">Aquamarine</a>
                             </li>
                             <li class="dropdown-item">
-                                <a href="<%=request.getContextPath()%>/views/web/category/tourmaline.jsp">Tourmaline</a>
+                                <a href="<%=request.getContextPath()%>/views/web/category/tourmarline.jsp">Tourmaline</a>
                             </li>
                             <li class="dropdown-item">
                                 <a href="<%=request.getContextPath()%>/views/web/category/jade.jsp">Jade</a>
@@ -75,13 +75,13 @@
                         </ul>
                     </li>
                     <li class="navigation-item">
-                        <a href="<%=request.getContextPath()%>/views/contact.jspct.jsp">Liên hệ</a>
+                        <a href="<%=request.getContextPath()%>/views/contact.jsp">Liên hệ</a>
                     </li>
                     <li class="navigation-item">
-                        <a href="<%=request.getContextPath()%>/views/policy.jspcy.jsp">Chính sách</a>
+                        <a href="<%=request.getContextPath()%>/views/web/policy.jsp">Chính sách</a>
                     </li>
                     <li class="navigation-item">
-                        <a href="<%=request.getContextPath()%>/views/policy.jspcy.jsp">Giới thiệu</a>
+                        <a href="<%=request.getContextPath()%>/views/web/policy.jsp">Giới thiệu</a>
                     </li>
                 </ul>
             </nav>
